@@ -463,7 +463,7 @@
    }
    
    .icon {
-	position;
+	position: flex;
 	left: 1rem;
 	fill: #9e9ea7;
 	width: 1rem;
